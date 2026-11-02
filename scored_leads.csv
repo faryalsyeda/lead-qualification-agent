@@ -1,0 +1,42 @@
+company,industry,city,state,email,phone,website,score,grade,reasons,outreach_draft
+Bright Homes Realty,Real Estate,Austin,TX,hello@brighthomes.example,512-555-0100,https://brighthomes.example,100,A - Contact first,Business email available; Phone available; Website available; Industry fit: Real Estate; Location complete (city + state),"Subject: Quick question about leads for Bright Homes Realty
+
+Hi Bright Homes Realty team,
+
+I work with Real Estate businesses in Austin, TX and help them get new customers through verified leads.
+
+Can I ask a quick question? What kind of leads would help you most right now, which city/state, and roughly how many per month? I can share a small free sample matched to your criteria, with no obligation.
+
+Thanks,
+Faryal Syeda"
+Summit Mortgage Group,Mortgage,Dallas,TX,contact@summitmortgage.example,214-555-0140,https://summitmortgage.example,100,A - Contact first,Business email available; Phone available; Website available; Industry fit: Mortgage; Location complete (city + state),"Subject: Quick question about leads for Summit Mortgage Group
+
+Hi Summit Mortgage Group team,
+
+I work with Mortgage businesses in Dallas, TX and help them get new customers through verified leads.
+
+Can I ask a quick question? What kind of leads would help you most right now, which city/state, and roughly how many per month? I can share a small free sample matched to your criteria, with no obligation.
+
+Thanks,
+Faryal Syeda"
+Northside Marketing Co,Marketing Agency,Chicago,IL,hello@northsidemarketing.example,,https://northsidemarketing.example,80,A - Contact first,Business email available; No phone listed; Website available; Industry fit: Marketing Agency; Location complete (city + state),"Subject: Quick question about leads for Northside Marketing Co
+
+Hi Northside Marketing Co team,
+
+I work with Marketing Agency businesses in Chicago, IL and help them get new customers through verified leads.
+
+Can I ask a quick question? What kind of leads would help you most right now, which city/state, and roughly how many per month? I can share a small free sample matched to your criteria, with no obligation.
+
+Thanks,
+Faryal Syeda"
+Sample SaaS Studio,SaaS,New York,NY,hello@samplesaas.example,212-555-0180,,80,A - Contact first,Business email available; Phone available; No website listed; Industry fit: SaaS; Location complete (city + state),"Subject: Quick question about leads for Sample SaaS Studio
+
+Hi Sample SaaS Studio team,
+
+I work with SaaS businesses in New York, NY and help them get new customers through verified leads.
+
+Can I ask a quick question? What kind of leads would help you most right now, which city/state, and roughly how many per month? I can share a small free sample matched to your criteria, with no obligation.
+
+Thanks,
+Faryal Syeda"
+Harbor Property Management,Property Management,Miami,FL,,,https://harborpm.example,50,C - Needs more data,No business email - score reduced; No phone listed; Website available; Industry fit: Property Management; Location complete (city + state),
