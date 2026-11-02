@@ -65,3 +65,20 @@ reasons and outreach draft.
 it with a client's real, verified lead list to run it for real work.
 
 Built by Faryal Syeda — Agentic AI portfolio project 1.
+
+## Docker and CI
+
+Run the FastAPI demo in Docker (Docker is not needed to run the
+plain Python tool, which works without it):
+
+```bash
+docker build -t lead-qualification-agent .
+docker run -p 8000:8000 lead-qualification-agent
+```
+
+Then open http://localhost:8000/health
+
+GitHub Actions runs on every push and pull request: it installs
+requirements, compiles the Python files, runs the smoke test above,
+and builds the Docker image. A failing check means the code or the
+Dockerfile needs fixing before it is shared.
